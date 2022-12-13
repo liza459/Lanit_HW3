@@ -1,0 +1,12 @@
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\bin\Debug\net6.0\Color.deps.json
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\bin\Debug\net6.0\Color.dll
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\bin\Debug\net6.0\Color.pdb
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\obj\Debug\net6.0\Color.csproj.AssemblyReference.cache
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\obj\Debug\net6.0\Color.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\obj\Debug\net6.0\Color.AssemblyInfoInputs.cache
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\obj\Debug\net6.0\Color.AssemblyInfo.cs
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\obj\Debug\net6.0\Color.csproj.CoreCompileInputs.cache
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\obj\Debug\net6.0\Color.dll
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\obj\Debug\net6.0\refint\Color.dll
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\obj\Debug\net6.0\Color.pdb
+C:\Users\ln459\source\repos\lanit_HW1\lanit_HW2\Color\obj\Debug\net6.0\ref\Color.dll
