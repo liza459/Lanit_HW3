@@ -1,6 +1,6 @@
 ﻿using Color;
 
-namespace lanit_HW2
+namespace lanit_HW3
 {
     internal class Read
     {

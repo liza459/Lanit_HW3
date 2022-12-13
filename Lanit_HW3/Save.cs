@@ -2,7 +2,7 @@
 using System.Net;
 using System.Text;
 
-namespace lanit_HW2
+namespace lanit_HW3
 {
     internal class Save
     {

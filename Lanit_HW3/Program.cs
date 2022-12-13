@@ -1,4 +1,4 @@
-﻿using lanit_HW2;
+﻿using lanit_HW3;
 
 public class Program
 {
