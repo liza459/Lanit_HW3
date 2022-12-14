@@ -97,6 +97,7 @@
       },
       "Provider/1.0.0": {
         "dependencies": {
+          "Color": "1.0.0",
           "System.Data.SqlClient": "4.8.4"
         },
         "runtime": {

@@ -146,6 +146,16 @@
             "rid": "win"
           }
         }
+      },
+      "Color/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Color.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Color.dll": {}
+        }
       }
     }
   },
@@ -462,10 +472,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Color/1.0.0": {
+      "type": "project",
+      "path": "../Color/Color.csproj",
+      "msbuildProject": "../Color/Color.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Color >= 1.0.0",
       "System.Data.SqlClient >= 4.8.4"
     ]
   },
@@ -495,7 +511,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ln459\\source\\repos\\Lanit_HW3\\Color\\Color.csproj": {
+              "projectPath": "C:\\Users\\ln459\\source\\repos\\Lanit_HW3\\Color\\Color.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -529,7 +549,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

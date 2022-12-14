@@ -10,3 +10,6 @@ C:\Users\ln459\source\repos\Lanit_HW3\Provider\obj\Debug\net6.0\Provider.dll
 C:\Users\ln459\source\repos\Lanit_HW3\Provider\obj\Debug\net6.0\refint\Provider.dll
 C:\Users\ln459\source\repos\Lanit_HW3\Provider\obj\Debug\net6.0\Provider.pdb
 C:\Users\ln459\source\repos\Lanit_HW3\Provider\obj\Debug\net6.0\ref\Provider.dll
+C:\Users\ln459\source\repos\Lanit_HW3\Provider\bin\Debug\net6.0\Color.dll
+C:\Users\ln459\source\repos\Lanit_HW3\Provider\bin\Debug\net6.0\Color.pdb
+C:\Users\ln459\source\repos\Lanit_HW3\Provider\obj\Debug\net6.0\Provider.csproj.CopyComplete
